@@ -1,0 +1,7 @@
+# 临时与缓存
+.DS_Store
+Thumbs.db
+*.log
+_temp*/
+_stage*/
+node_modules/
