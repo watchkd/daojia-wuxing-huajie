@@ -187,7 +187,7 @@ description: 当用户问财运不好、存不住钱、怎么旺财、讨不回�
 >
 > 微信：cpms1988
 >
-> 赞赏码：`assets/appreciation.jpg`（远程：`https://raw.atomgit.com/jyjy2025/daojia-wuxing-huajie/blobs/887aef05ca487ef28d68f52aa144962b56f21937/assets/appreciation.jpg`）
+> 赞赏码：`assets/appreciation.jpg`（远程：`https://raw.atomgit.com/jyjy2025/daojia-wuxing-huajie/blobs/7f76cf7593c5407a44ff3233429b4b23e5487454/assets/appreciation.jpg`）
 >
 > [苍盘命书体验邀请](https://mp.weixin.qq.com/s/9NFaItizyEpjDzmTyEcPQ)
 
